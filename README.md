@@ -9,6 +9,6 @@
 # c) Posterior Probability Mass Funtion (PMF)
 # See "changepoint.jpg"
 # Reference:
-# Zhao H, Duan X, Raga GB, Sun F 2018: Potential large-scale forcing mechanisms driving enhanced North Atlantic tropical cyclone activity since the mid-1990s. J. Climate
+# Zhao H, Duan X, Raga GB, Sun F 2018: Potential large-scale forcing mechanisms driving enhanced North Atlantic tropical cyclone activity since the mid-1990s. J. Climate
 # Zhao, X. and P.S. Chu, 2009: Bayesian Change-Point Analysis for Extreme Events (Typhoons, Heavy Rainfall, and Heat Waves): A RJMCMC Approach, J. Climate
  
