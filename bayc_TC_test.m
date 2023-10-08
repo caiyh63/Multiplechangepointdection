@@ -1,3 +1,10 @@
+% This code is used to output the ProbHypothesis and SampleOfChangePoint into the txt file
+% Last Edited:
+%   2023-10        First Create
+%    
+
+% Yuhao CAI From SYSU
+
 clear
 fid  = fopen('ALTC.txt');
 data = fscanf(fid, '%d');
