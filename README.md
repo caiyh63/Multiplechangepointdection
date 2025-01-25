@@ -1,4 +1,4 @@
-# Multiplechangepointdection
+# Multiple Change Point Dection
 * The code package mainly apply to repeated the results conducted by Zhao et al. (2018). See Fig.2  
 * Preparation: Before run the RJMCMC code, you should the prepare the file invoving the the time series of tropical cyclone genesis frequency over the North Atlantic  
   during 1979-2014 (ALTC.txt). The time series in file is taken as the optional input in built-in function file "MultipleChangePointDetection.m".
